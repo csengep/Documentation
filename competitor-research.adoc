@@ -27,7 +27,7 @@ https://statushub.com/
 **social media:** +
 - Facebook: 1 like, nothing since 2017 +
 - Twitter: monthly posts, 57 followers, not much engagement, no hashtags + 
-- LinkedIn + 
+- LinkedIn: company page, inactive, 12 followers + 
 - Instagram + 
 
 **popularity:** +
@@ -67,7 +67,7 @@ https://www.statuspage.io/ +
 **social media:** +
 - Facebook: 242 likes, nothing since 2017 +
 - Twitter: not in use since 2014 + 
-- LinkedIn + 
+- LinkedIn: company page, inactive, 214 followers + 
 - Instagram + 
 
 **popularity:** +
@@ -91,7 +91,7 @@ https://www.pingdom.com/ +
 **social media:** +
 - Facebook: 55k likes, regular posts, little engagement with posts +
 - Twitter: regular posts, 94k followers, not much engagement, no hashtags + 
-- LinkedIn + 
+- LinkedIn: company page, regular posts, little engagement, 1600 followers  + 
 - Instagram + 
 
 **popularity:** +
@@ -114,7 +114,7 @@ https://www.instana.com/ +
 **social media:** +
 - Facebook: 326 likes, regular posts, little engagement with posts +
 - Twitter: regular posts, 3k followers, not much engagement, no hashtags + 
-- LinkedIn + 
+- LinkedIn: company page, frequent posts, little engagement, 1,200 followers + 
 - Instagram + 
 
 **popularity:** +
@@ -142,7 +142,7 @@ https://www.atlassian.com/ +
 **social media:** +
 - Facebook: 209k likes, regular posts, little engagement with posts +
 - Twitter: frequent posts, 76k followers, not much engagement, no hashtags + 
-- LinkedIn + 
+- LinkedIn: company page, frequent posts, little engagement, 70-90 likes per post, 128k followers + 
 - Instagram + 
 
 **popularity:** +
@@ -177,7 +177,7 @@ https://www.signalfx.com/ +
 **social media:** +
 - Facebook: 410 likes, regular posts, little engagement with posts + 
 - Twitter: frequent posts, 2k followers, not much engagement, no hashtags + 
-- LinkedIn + 
+- LinkedIn: company page, frequent posts, little engagement, 10-30 likes per post, 2k followers + 
 - Instagram + 
 
 **popularity:** +
@@ -202,7 +202,25 @@ https://www.dynatrace.com/ +
 **social media:** +
 - Facebook: 3k likes, regular posts, little engagement with posts + 
 - Twitter: frequent posts, 15k followers, not much engagement, no hashtags + 
-- LinkedIn + 
+- LinkedIn: company page, frequent posts, little engagement, 10-40 likes per post, 30k followers + 
 - Instagram + 
 
 **popularity:** +
+
+**Overall findings:** + 
+
+**- competitors:** +
+
+**- key features:** +
+
+**- pricing:** + 
+
+**- marketing strategies:** + 
+
+**- social media:** +
+- same posts on all platforms +
+- not much engagement with followers, mostly likes on LinkedIn posts + 
+- guessing that websites are the main source of traffic, will look into this further
+
+**- popularity:** + 
+
